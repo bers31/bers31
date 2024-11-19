@@ -14,7 +14,7 @@ I’m a **Data Analyst** and **Frontend Developer** with a unique blend of skill
 - **Frontend Frameworks**: React, Vue.js
 - **Data Visualization**: Tableau, Power BI, D3.js
 - **Data Wrangling**: Pandas, NumPy, Excel
-- **Design**: Figma, Adobe XD
+- **Design**: Figma, Adobe Photoshop
 - **Machine Learning (Basics)**: Scikit-Learn, TensorFlow
 - **Databases**: MySQL, PostgreSQL
 
