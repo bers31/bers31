@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Email">
   </a>
-  <a href="https://bit.ly/bernardo-portfolio" target="_blank" rel="noopener">
+  <a href="https://bit.ly/bernardo-my_portfolio" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"
          alt="Portfolio">
   </a>
@@ -194,7 +194,7 @@
 
 ## 📜 **Certifications**
 
-- 🎓 **Bootcamp in Data Analysis** - *Alex the Data Analyst* (2024)
+- 🎓 **Intellectual Property Certificate – Chatbot** - *Republic of Indonesia Ministry of Law* (2024)
 - 🤖 **PyTorch and Generative AI** - *Avalon AI* (2024)
 - 🗄️ **Database Programming with SQL** - *Oracle Academy* (2024)
 - ☕ **Java Programming** - *Oracle Academy* (2024)
@@ -253,7 +253,7 @@
   <a href="mailto:suniabernardo@gmail.com">
     <img src="https://img.shields.io/badge/Email-Drop%20a%20Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://bit.ly/bernardo-portfolio" target="_blank" rel="noopener">
+  <a href="https://bit.ly/bernardo-my_portfolio" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://wa.me/6289520501678" target="_blank" rel="noopener">
