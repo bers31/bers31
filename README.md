@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn">
   </a>
-  <a href="mailto:suniabernardo@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=suniabernardo@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Email">
   </a>
@@ -110,6 +110,63 @@
 - Reduced course registration time by 30% through process optimization
 - Implemented automated validation reducing human error and faculty workload
 
+### 🎓 **Advanced Student Performance Clustering**
+**Technologies:** `Python` `Jupyter Notebook` `Streamlit` `K-Means` `Scikit-learn`
+
+- Developed intelligent student performance clustering system using K-Means algorithm
+- Created interactive Streamlit interface for educators to visualize clusters dynamically
+- Achieved optimal clustering results using silhouette scores and hyperparameter tuning
+- Enabled tailored academic interventions through distinct performance group identification
+
+### 🛍️ **Advanced Customer Segmentation System**
+**Technologies:** `Python` `Random Forest` `XGBoost` `SVM` `k-NN` `Streamlit`
+
+- Engineered sophisticated customer segmentation using advanced supervised learning algorithms
+- Implemented cutting-edge models achieving significant improvement in segmentation accuracy
+- Built interactive Streamlit interface for real-time customer data analysis
+- Delivered actionable segmentation insights empowering effective customer targeting
+
+### 🔍 **Custom Search Engine Using VSM & LSI**
+**Technologies:** `Python` `VSM` `LSI` `TF-IDF` `Sastrawi` `NLTK` `Truncated SVD`
+
+- Designed interactive search engine showcasing Vector Space Model and Latent Semantic Indexing
+- Implemented robust Indonesian text preprocessing with Sastrawi stemming and tokenization
+- Optimized retrieval accuracy through systematic LSI topic configuration experiments
+- Achieved notable improvements in search relevance using Accuracy@K and MRR metrics
+
+### 🌍 **Greenhouse Gas Emissions Prediction**
+**Technologies:** `Python` `R` `Excel` `Time Series Analysis` `Regression`
+
+- Built predictive model forecasting greenhouse gas emissions for the next decade
+- Employed advanced time-series and regression techniques for accurate emissions prediction
+- Delivered actionable insights supporting policy development for emissions reduction
+- Compiled comprehensive report with clear visualizations for stakeholder decision-making
+
+### 🎮 **3D Minecraft-Inspired Game Development**
+**Technologies:** `C++` `OpenGL` `Matrix Manipulation` `Vector Optimization`
+
+- Designed and developed immersive 3D game with bear character in interactive environment
+- Created dynamic world featuring interactive objects using advanced OpenGL techniques
+- Achieved smooth gameplay through efficient matrix manipulation and vector optimization
+- Implemented intuitive control system ensuring excellent user experience across hardware configurations
+
+### 🛒 **YC Electric E-Commerce Platform**
+**Technologies:** `HTML5` `CSS3` `JavaScript` `MySQL` `SEO` `A/B Testing`
+
+- Led development of custom e-commerce website attracting 500+ active users
+- Engineered MySQL database managing 100+ products and 50+ daily transactions
+- Reduced page load time to under 2 seconds through optimized queries and coding practices
+- Achieved 40% increase in organic traffic and 25% boost in customer retention through A/B testing
+
+### 📊 **Excel Data Analysis Dashboard**
+**Jan 2022 - Jul 2022**
+**Technologies:** `Microsoft Excel` `Pivot Tables` `Advanced Functions` `Data Visualization`
+
+- Conceptualized advanced data analysis dashboard transforming complex datasets into actionable insights
+- Crafted dynamic visualizations including sophisticated charts and interactive pivot tables
+- Integrated user-friendly slicers and filters delivering seamless real-time data customization
+- Harnessed advanced Excel capabilities including VLOOKUP, SUMIFS, and conditional formatting
+
 ---
 
 ## 🛠️ **Technical Skills**
@@ -194,7 +251,7 @@
 
 ## 📜 **Certifications**
 
-- 🎓 **Intellectual Property Certificate – Chatbot** - *Republic of Indonesia Ministry of Law* (2024)
+- 🎓 **Bootcamp in Data Analysis** - *Alex the Data Analyst* (2024)
 - 🤖 **PyTorch and Generative AI** - *Avalon AI* (2024)
 - 🗄️ **Database Programming with SQL** - *Oracle Academy* (2024)
 - ☕ **Java Programming** - *Oracle Academy* (2024)
@@ -248,9 +305,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bers31&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bers31&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=bers31&theme=tokyonight" alt="GitHub Streak" />
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bers31&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
@@ -274,10 +332,10 @@
   <a href="https://linkedin.com/in/bernardo-sunia/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:suniabernardo@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=suniabernardo@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Drop%20a%20Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://bit.ly/bernardo-my_portfolio" target="_blank" rel="noopener">
+  <a href="https://bit.ly/bernardomy-my_portfolio" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://wa.me/6289520501678" target="_blank" rel="noopener">
