@@ -11,7 +11,7 @@
   </a>
   <a href="https://bit.ly/bernardo-my_portfolio" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"
-         alt="Portfolio">
+         alt="">
   </a>
   <a href="https://wa.me/6289520501678" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
@@ -27,14 +27,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Problem+Solver+%26+Innovation+Driver" alt="Typing SVG" />
 </div>
 
-**Highly analytical Informatics undergraduate** with a proven track record of transforming complex data into actionable insights. Skilled in **Python**, **SQL**, and **advanced data visualization**, with expertise in **machine learning**, **deep learning**, and **full-stack development**. Demonstrated ability to optimize IT systems, gather requirements, and deliver innovative solutions that drive organizational success.
+**Highly analytical Bachelor of Informatics from Universitas Diponegoro (S.Kom.)** with a proven track record of transforming complex data into actionable insights. Skilled in **Python**, **SQL**, and **advanced data visualization**, with expertise in **machine learning**, **deep learning**, and **data analysis**. Demonstrated ability to optimize IT systems, gather requirements, and deliver innovative solutions that drive organizational success.
 
 ---
 
 ## 🎓 **Education**
 
-**Diponegoro University** | *Informatics* | **Aug 2022 - Present**  
-- **Current GPA:** 3.76/4.00  
+**Diponegoro University** | *Informatics* | **Aug 2022 - Mar 2026**  
+- **Current GPA:** 3.78/4.00  
 - **6th Semester** - Focused on Data Science, Machine Learning, and Software Engineering
 
 ---
@@ -81,6 +81,13 @@
 - Built comprehensive chatbot system for correctional facility information management
 - Integrated advanced NLP capabilities with custom prompt engineering
 - Implemented real-time analytics and performance monitoring dashboard
+
+### 🛍️ **TF-IDF vs SBERT — Aspect Sentiment Classification on Indonesian E-Commerce Reviews**
+**Technologies:** `Python` `scikit-learn` `sentence-transformers` `Jupyter Notebook` `NLTK` `Sastrawi` `Matplotlib`
+
+- Conducted comparative NLP research on aspect sentiment classification using Indonesian Shopee e-commerce reviews
+- Compared sparse TF-IDF and dense SBERT representations under a shared Logistic Regression classifier
+- Built a complete pipeline covering data collection, aspect discovery, annotation, modeling, and statistical evaluation
 
 ### 📊 **Twitter Information Diffusion & Sentiment Analysis**
 **Technologies:** `Python` `Tweepy` `NetworkX` `Scikit-learn` `Pandas` `Matplotlib`
