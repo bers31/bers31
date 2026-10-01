@@ -446,7 +446,7 @@ A data analysis dashboard built in Microsoft Excel to transform messy datasets i
 ![Railway](https://img.shields.io/badge/Deployment-Railway-0B0D0E?style=flat-square\&logo=railway\&logoColor=white)
 
 <div align="center">
-  <img src="images/wiraky-formulir-anomali.png" alt="Maribaya guest review form and anomaly detection dashboard" width="500">
+  <img src="images/review-form-anomaly-dashboard.png" alt="Maribaya guest review form and anomaly detection dashboard" width="500">
 </div>
 
 A first-party guest review collection system for Maribaya Resort and Glamping, combining secure access, review validation, anomaly detection, and operational dashboards.
